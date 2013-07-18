@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RUBY_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="RVM: ruby-2.0.0-p247 [global]" jdkType="RUBY_SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="aws-s3 (v0.6.3, RVM: ruby-2.0.0-p247 [global]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="aws-sdk (v1.12.0, RVM: ruby-2.0.0-p247 [global]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="builder (v3.2.2, RVM: ruby-2.0.0-p247 [global]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="bundler (v1.3.5, RVM: ruby-2.0.0-p247 [global]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="json (v1.8.0, RVM: ruby-2.0.0-p247 [global]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="mime-types (v1.23, RVM: ruby-2.0.0-p247 [global]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="nokogiri (v1.5.10, RVM: ruby-2.0.0-p247 [global]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="uuidtools (v2.1.4, RVM: ruby-2.0.0-p247 [global]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="xml-simple (v1.1.2, RVM: ruby-2.0.0-p247 [global]) [gem]" level="application" />
+  </component>
+</module>
+

@@ -1,0 +1,24 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    aws-s3 (0.6.3)
+      builder
+      mime-types
+      xml-simple
+    aws-sdk (1.12.0)
+      json (~> 1.4)
+      nokogiri (< 1.6.0)
+      uuidtools (~> 2.1)
+    builder (3.2.2)
+    json (1.8.0)
+    mime-types (1.23)
+    nokogiri (1.5.10)
+    uuidtools (2.1.4)
+    xml-simple (1.1.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  aws-s3
+  aws-sdk
